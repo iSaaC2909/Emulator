@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : mos6502
-// Author      : Gianluca Ghettini
-// Version     : 1.0
-// Copyright   :
-// Description : A MOS 6502 CPU emulator written in C++
-//============================================================================
-
 #pragma once
 #include <stdint.h>
 
