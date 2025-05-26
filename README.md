@@ -110,10 +110,6 @@ The emulator handles the following interrupts:
 - Non-Maskable Interrupt (NMI)
 - Interrupt Request (IRQ)
 
-## Credits
-
-Original Author: Gianluca Ghettini
-
 ## License
 
 [License information to be added]
